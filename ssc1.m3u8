@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+http://beworkstestload181.xsturta.xyz/live/325869_.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+http://beworkstestload181.xsturta.xyz/live/360608_.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+http://beworkstestload181.xsturta.xyz/live/331667_.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+http://beworkstestload181.xsturta.xyz/live/330427_.m3u8
